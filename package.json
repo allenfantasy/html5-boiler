@@ -1,20 +1,18 @@
 {
-  "name": "scroll_page",
-  "version": "1.0.0",
-  "description": "``` npm i -g postcss ```",
+  "name": "html5_boiler",
+  "version": "0.1.0",
+  "description": "An HTML5 Boilerplate",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
-  "author": "",
+  "author": "Allen Wu",
   "license": "MIT",
   "devDependencies": {
     "babel": "^5.8.34",
     "babel-loader": "^5.3.3",
     "postcss-cli": "^2.3.2",
-    "webpack": "^1.12.9"
-  },
-  "dependencies": {
+    "webpack": "^1.12.9",
     "autoprefixer": "^6.1.2"
   }
 }

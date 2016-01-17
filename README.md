@@ -11,3 +11,8 @@ npm install
 ```bash
 make // Setup all the booby-traps and open localhost:2333, let's rock!
 ```
+
+### TODO
+
+- [ ] make it a command-line npm package
+- [ ] support more scenarios

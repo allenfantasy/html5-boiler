@@ -9,7 +9,7 @@ npm install
 ### Usage
 
 ```bash
-make // Setup all the booby-traps and open localhost:2333, let's rock!
+make # Setup all the booby-traps and open localhost:2333, let's rock!
 ```
 
 ### TODO

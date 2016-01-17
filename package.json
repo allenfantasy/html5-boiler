@@ -4,7 +4,7 @@
   "description": "An HTML5 Boilerplate",
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "preinstall": "rm .git & npm i -g webpack browser-sync"
   },
   "author": "Allen Wu",
   "license": "MIT",
